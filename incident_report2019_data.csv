@@ -1,0 +1,526 @@
+college_name,location,num_location,type_of_university,num_type_of_university,length_of_college_in_years,student_population,type_of_incident,specified_type,num_specified_type,on_campus,residence_halls,noncampus_property,public_property
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,aggravated assault,0,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,arson,1,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,burglary,2,2,2,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,robbery,6,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,rape,7,1,1,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,fondling,8,2,1,0,2
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,incest,9,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,statutory rape,10,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,domestic violence,11,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,dating violence,12,1,1,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,offense,stalking,13,3,3,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,26,26,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,74,74,0,0
+Fordham University at Lincoln Center,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,aggravated assault,0,2,1,0,1
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,arson,1,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,burglary,2,6,2,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,robbery,6,0,0,0,5
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,rape,7,16,6,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,fondling,8,4,0,0,1
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,incest,9,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,statutory rape,10,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,domestic violence,11,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,dating violence,12,4,4,0,1
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,offense,stalking,13,1,1,0,1
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,arrests,drug abuse violations arrest,14,2,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,149,149,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,849,849,0,0
+Fordham University at Rose Hill,Bronx,1,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,3,3,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,aggravated assault,0,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,arson,1,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,burglary,2,3,0,0,14
+Baruch College,Manhattan,0,Public,1,4,,offense,motor vehicle theft,3,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,manslaughter by negligence,5,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,robbery,6,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,rape,7,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,fondling,8,0,0,0,1
+Baruch College,Manhattan,0,Public,1,4,,offense,incest,9,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,statutory rape,10,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,domestic violence,11,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,dating violence,12,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,offense,stalking,13,1,0,0,1
+Baruch College,Manhattan,0,Public,1,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,arrests,weapons possession arrest,16,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,disciplinary actions/judicial referrals,drug abuse violations,18,5,0,0,5
+Baruch College,Manhattan,0,Public,1,4,,disciplinary actions/judicial referrals,liquor law violations,19,0,0,0,0
+Baruch College,Manhattan,0,Public,1,4,,disciplinary actions/judicial referrals,weapons possession,20,1,0,0,1
+Queens College,Queens,4,Public,1,4,,offense,aggravated assault,0,0,0,0,0
+Queens College,Queens,4,Public,1,4,,offense,arson,1,0,0,0,0
+Queens College,Queens,4,Public,1,4,,offense,burglary,2,4,0,0,0
+Queens College,Queens,4,Public,1,4,,offense,motor vehicle theft,3,0,0,0,0
+Queens College,Queens,4,Public,1,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Queens College,Queens,4,Public,1,4,,offense,manslaughter by negligence,5,0,0,0,0
+Queens College,Queens,4,Public,1,4,,offense,robbery,6,0,0,0,1
+Queens College,Queens,4,Public,1,4,,offense,rape,7,0,0,0,0
+Queens College,Queens,4,Public,1,4,,offense,fondling,8,2,1,0,0
+Queens College,Queens,4,Public,1,4,,offense,incest,9,0,0,0,0
+Queens College,Queens,4,Public,1,4,,offense,statutory rape,10,0,0,0,0
+Queens College,Queens,4,Public,1,4,,offense,domestic violence,11,2,1,0,0
+Queens College,Queens,4,Public,1,4,,offense,dating violence,12,1,1,0,1
+Queens College,Queens,4,Public,1,4,,offense,stalking,13,8,0,0,0
+Queens College,Queens,4,Public,1,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+Queens College,Queens,4,Public,1,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Queens College,Queens,4,Public,1,4,,arrests,weapons possession arrest,16,0,0,0,0
+Queens College,Queens,4,Public,1,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Queens College,Queens,4,Public,1,4,,disciplinary actions/judicial referrals,drug abuse violations,18,12,8,0,0
+Queens College,Queens,4,Public,1,4,,disciplinary actions/judicial referrals,liquor law violations,19,30,20,0,0
+Queens College,Queens,4,Public,1,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+St. John's University,Queens,4,Private,0,4,,offense,aggravated assault,0,0,0,0,0
+St. John's University,Queens,4,Private,0,4,,offense,arson,1,0,0,0,0
+St. John's University,Queens,4,Private,0,4,,offense,burglary,2,4,0,0,0
+St. John's University,Queens,4,Private,0,4,,offense,motor vehicle theft,3,4,0,0,0
+St. John's University,Queens,4,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+St. John's University,Queens,4,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+St. John's University,Queens,4,Private,0,4,,offense,robbery,6,1,0,0,0
+St. John's University,Queens,4,Private,0,4,,offense,rape,7,7,6,0,0
+St. John's University,Queens,4,Private,0,4,,offense,fondling,8,2,1,0,0
+St. John's University,Queens,4,Private,0,4,,offense,incest,9,0,0,0,0
+St. John's University,Queens,4,Private,0,4,,offense,statutory rape,10,0,0,0,0
+St. John's University,Queens,4,Private,0,4,,offense,domestic violence,11,2,1,0,0
+St. John's University,Queens,4,Private,0,4,,offense,dating violence,12,14,12,0,2
+St. John's University,Queens,4,Private,0,4,,offense,stalking,13,2,1,0,0
+St. John's University,Queens,4,Private,0,4,,arrests,drug abuse violations arrest,14,0,0,0,2
+St. John's University,Queens,4,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+St. John's University,Queens,4,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+St. John's University,Queens,4,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+St. John's University,Queens,4,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,188,187,0,0
+St. John's University,Queens,4,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,127,122,0,3
+St. John's University,Queens,4,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,2,1,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,aggravated assault,0,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,arson,1,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,burglary,2,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,robbery,6,0,0,0,1
+St. John's University,Staten Island,3,Private,0,4,,offense,rape,7,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,fondling,8,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,incest,9,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,statutory rape,10,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,domestic violence,11,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,dating violence,12,1,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,offense,stalking,13,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,0,0,0,0
+St. John's University,Staten Island,3,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,offense,aggravated assault,0,0,0,0,2
+LaGuardia Community College,Queens,4,Public,1,2,,offense,arson,1,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,offense,burglary,2,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,offense,motor vehicle theft,3,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,offense,manslaughter by negligence,5,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,offense,robbery,6,0,0,0,1
+LaGuardia Community College,Queens,4,Public,1,2,,offense,rape,7,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,offense,fondling,8,3,0,0,3
+LaGuardia Community College,Queens,4,Public,1,2,,offense,incest,9,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,offense,statutory rape,10,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,offense,domestic violence,11,2,0,0,2
+LaGuardia Community College,Queens,4,Public,1,2,,offense,dating violence,12,2,0,0,2
+LaGuardia Community College,Queens,4,Public,1,2,,offense,stalking,13,3,0,0,3
+LaGuardia Community College,Queens,4,Public,1,2,,arrests,drug abuse violations arrest,14,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,arrests,liquor law violations arrest,15,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,arrests,weapons possession arrest,16,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,unfounded crime,unfounded crime,17,0,0,0,0
+LaGuardia Community College,Queens,4,Public,1,2,,disciplinary actions/judicial referrals,drug abuse violations,18,18,0,0,22
+LaGuardia Community College,Queens,4,Public,1,2,,disciplinary actions/judicial referrals,liquor law violations,19,1,0,0,1
+LaGuardia Community College,Queens,4,Public,1,2,,disciplinary actions/judicial referrals,weapons possession,20,1,0,0,1
+Columbia University,Manhattan,0,Private,0,4,,offense,aggravated assault,0,0,1,0,1
+Columbia University,Manhattan,0,Private,0,4,,offense,arson,1,0,0,0,0
+Columbia University,Manhattan,0,Private,0,4,,offense,burglary,2,47,34,0,0
+Columbia University,Manhattan,0,Private,0,4,,offense,motor vehicle theft,3,0,0,0,3
+Columbia University,Manhattan,0,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Columbia University,Manhattan,0,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+Columbia University,Manhattan,0,Private,0,4,,offense,robbery,6,2,1,0,13
+Columbia University,Manhattan,0,Private,0,4,,offense,rape,7,11,11,0,0
+Columbia University,Manhattan,0,Private,0,4,,offense,fondling,8,4,2,0,1
+Columbia University,Manhattan,0,Private,0,4,,offense,incest,9,0,0,0,0
+Columbia University,Manhattan,0,Private,0,4,,offense,statutory rape,10,0,0,0,0
+Columbia University,Manhattan,0,Private,0,4,,offense,domestic violence,11,0,7,0,0
+Columbia University,Manhattan,0,Private,0,4,,offense,dating violence,12,24,23,0,0
+Columbia University,Manhattan,0,Private,0,4,,offense,stalking,13,25,14,0,0
+Columbia University,Manhattan,0,Private,0,4,,arrests,drug abuse violations arrest,14,0,1,0,0
+Columbia University,Manhattan,0,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Columbia University,Manhattan,0,Private,0,4,,arrests,weapons possession arrest,16,0,1,0,0
+Columbia University,Manhattan,0,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Columbia University,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,160,159,0,0
+Columbia University,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,181,181,0,0
+Columbia University,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,5,4,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,aggravated assault,0,0,0,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,arson,1,0,0,0,1
+New York University ,Manhattan ,0,Private,0,4,,offense,burglary,2,4,1,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,robbery,6,0,0,0,6
+New York University ,Manhattan ,0,Private,0,4,,offense,rape,7,5,5,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,fondling,8,4,4,0,6
+New York University ,Manhattan ,0,Private,0,4,,offense,incest,9,0,0,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,statutory rape,10,0,0,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,domestic violence,11,2,2,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,dating violence,12,6,5,0,0
+New York University ,Manhattan ,0,Private,0,4,,offense,stalking,13,11,6,0,1
+New York University ,Manhattan ,0,Private,0,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+New York University ,Manhattan ,0,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+New York University ,Manhattan ,0,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+New York University ,Manhattan ,0,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+New York University ,Manhattan ,0,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,136,134,0,0
+New York University ,Manhattan ,0,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,873,873,0,0
+New York University ,Manhattan ,0,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,aggravated assault,0,1,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,arson,1,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,burglary,2,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,robbery,6,0,0,0,5
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,rape,7,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,fondling,8,1,1,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,incest,9,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,statutory rape,10,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,domestic violence,11,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,dating violence,12,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,offense,stalking,13,1,1,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,13,10,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,46,46,0,0
+NYU Tandon,Brooklyn,2,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,aggravated assault,0,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,arson,1,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,burglary,2,1,1,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,robbery,6,0,0,0,1
+Pace University,Manhattan,0,Private,0,4,,offense,rape,7,1,1,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,fondling,8,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,incest,9,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,statutory rape,10,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,domestic violence,11,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,dating violence,12,2,2,0,0
+Pace University,Manhattan,0,Private,0,4,,offense,stalking,13,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Pace University,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,32,32,0,0
+Pace University,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,102,102,0,0
+Pace University,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,aggravated assault,0,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,arson,1,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,burglary,2,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,robbery,6,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,rape,7,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,fondling,8,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,incest,9,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,statutory rape,10,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,domestic violence,11,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,dating violence,12,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,offense,stalking,13,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+NYIT,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,0,0,4,0
+NYIT,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,1,0,5,0
+NYIT,Manhattan,0,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,aggravated assault,0,0,0,0,1
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,arson,1,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,burglary,2,1,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,motor vehicle theft,3,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,manslaughter by negligence,5,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,robbery,6,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,rape,7,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,fondling,8,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,incest,9,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,statutory rape,10,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,domestic violence,11,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,dating violence,12,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,offense,stalking,13,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,arrests,weapons possession arrest,16,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,disciplinary actions/judicial referrals,drug abuse violations,18,2,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,disciplinary actions/judicial referrals,liquor law violations,19,0,0,0,0
+Brooklyn College,Brooklyn,2,Public,1,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,aggravated assault,0,0,0,0,1
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,arson,1,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,burglary,2,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,robbery,6,0,0,0,1
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,rape,7,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,fondling,8,0,0,0,2
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,incest,9,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,statutory rape,10,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,domestic violence,11,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,dating violence,12,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,offense,stalking,13,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,36,36,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,32,30,0,0
+Pratt Institute,Brooklyn,2,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,aggravated assault,0,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,arson,1,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,burglary,2,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,robbery,6,1,1,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,rape,7,1,1,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,fondling,8,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,incest,9,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,statutory rape,10,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,domestic violence,11,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,dating violence,12,1,1,0,0
+LIU,Brooklyn,2,Private,0,4,,offense,stalking,13,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,arrests,drug abuse violations arrest,14,1,0,0,0
+LIU,Brooklyn,2,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+LIU,Brooklyn,2,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,37,37,0,0
+LIU,Brooklyn,2,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,58,58,0,0
+LIU,Brooklyn,2,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,aggravated assault,0,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,arson,1,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,burglary,2,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,motor vehicle theft,3,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,manslaughter by negligence,5,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,robbery,6,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,rape,7,1,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,fondling,8,2,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,incest,9,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,statutory rape,10,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,domestic violence,11,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,dating violence,12,4,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,offense,stalking,13,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,arrests,drug abuse violations arrest,14,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,arrests,liquor law violations arrest,15,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,arrests,weapons possession arrest,16,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,unfounded crime,unfounded crime,17,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,disciplinary actions/judicial referrals,drug abuse violations,18,16,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,disciplinary actions/judicial referrals,liquor law violations,19,0,0,0,0
+Kingsborough Community College,Brooklyn,2,Public,1,2,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,aggravated assault,0,0,0,0,5
+Lehman College,Bronx,1,Public,1,4,,offense,arson,1,0,0,0,1
+Lehman College,Bronx,1,Public,1,4,,offense,burglary,2,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,motor vehicle theft,3,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,manslaughter by negligence,5,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,robbery,6,0,0,0,4
+Lehman College,Bronx,1,Public,1,4,,offense,rape,7,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,fondling,8,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,incest,9,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,statutory rape,10,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,domestic violence,11,1,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,dating violence,12,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,offense,stalking,13,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,arrests,drug abuse violations arrest,14,0,0,0,1
+Lehman College,Bronx,1,Public,1,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,arrests,weapons possession arrest,16,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,disciplinary actions/judicial referrals,drug abuse violations,18,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,disciplinary actions/judicial referrals,liquor law violations,19,0,0,0,0
+Lehman College,Bronx,1,Public,1,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,1
+Bronx Community College,Bronx,1,Public,1,4,,offense,aggravated assault,0,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,offense,arson,1,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,offense,burglary,2,1,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,offense,motor vehicle theft,3,0,0,0,3
+Bronx Community College,Bronx,1,Public,1,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,offense,manslaughter by negligence,5,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,offense,robbery,6,0,0,0,3
+Bronx Community College,Bronx,1,Public,1,4,,offense,rape,7,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,offense,fondling,8,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,offense,incest,9,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,offense,statutory rape,10,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,offense,domestic violence,11,0,0,0,2
+Bronx Community College,Bronx,1,Public,1,4,,offense,dating violence,12,1,0,0,1
+Bronx Community College,Bronx,1,Public,1,4,,offense,stalking,13,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,arrests,drug abuse violations arrest,14,2,0,0,4
+Bronx Community College,Bronx,1,Public,1,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,arrests,weapons possession arrest,16,1,0,0,1
+Bronx Community College,Bronx,1,Public,1,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,disciplinary actions/judicial referrals,drug abuse violations,18,12,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,disciplinary actions/judicial referrals,liquor law violations,19,0,0,0,0
+Bronx Community College,Bronx,1,Public,1,4,,disciplinary actions/judicial referrals,weapons possession,20,3,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,aggravated assault,0,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,arson,1,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,burglary,2,4,2,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,motor vehicle theft,3,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,robbery,6,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,rape,7,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,fondling,8,1,1,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,incest,9,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,statutory rape,10,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,domestic violence,11,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,dating violence,12,2,2,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,offense,stalking,13,3,1,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,124,122,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,276,272,0,0
+Manhattan College,Manhattan,0,Private ,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,aggravated assault,0,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,arson,1,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,burglary,2,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,motor vehicle theft,3,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,manslaughter by negligence,5,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,robbery,6,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,rape,7,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,fondling,8,1,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,incest,9,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,statutory rape,10,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,domestic violence,11,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,dating violence,12,3,2,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,offense,stalking,13,3,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,arrests,liquor law violations arrest,15,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,arrests,weapons possession arrest,16,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,unfounded crime,unfounded crime,17,0,0,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,disciplinary actions/judicial referrals,drug abuse violations,18,15,14,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,disciplinary actions/judicial referrals,liquor law violations,19,44,44,0,0
+College of Staten Island,Staten Island,3,Public,1,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,aggravated assault,0,6,6,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,arson,1,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,burglary,2,11,9,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,robbery,6,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,rape,7,1,1,0,1
+Wagner College,Staten Island,3,Private,0,4,,offense,fondling,8,1,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,incest,9,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,statutory rape,10,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,domestic violence,11,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,dating violence,12,1,1,0,0
+Wagner College,Staten Island,3,Private,0,4,,offense,stalking,13,2,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,arrests,drug abuse violations arrest,14,7,7,0,0
+Wagner College,Staten Island,3,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Wagner College,Staten Island,3,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,37,34,0,0
+Wagner College,Staten Island,3,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,11,11,0,0
+Wagner College,Staten Island,3,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,aggravated assault,0,0,0,1,4
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,arson,1,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,burglary,2,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,motor vehicle theft,3,0,0,0,2
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,manslaughter by negligence,5,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,robbery,6,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,rape,7,0,0,0,2
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,fondling,8,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,incest,9,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,statutory rape,10,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,domestic violence,11,0,0,0,1
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,dating violence,12,1,0,0,1
+New York City College of Technology,Brooklyn,2,Public,1,4,,offense,stalking,13,1,0,0,1
+New York City College of Technology,Brooklyn,2,Public,1,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,arrests,liquor law violations arrest,15,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,arrests,weapons possession arrest,16,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,unfounded crime,unfounded crime,17,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,disciplinary actions/judicial referrals,drug abuse violations,18,2,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,disciplinary actions/judicial referrals,liquor law violations,19,0,0,0,0
+New York City College of Technology,Brooklyn,2,Public,1,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+York College,Queens,4,Public ,1,4,,offense,aggravated assault,0,0,0,0,8
+York College,Queens,4,Public ,1,4,,offense,arson,1,0,0,0,0
+York College,Queens,4,Public ,1,4,,offense,burglary,2,1,0,0,2
+York College,Queens,4,Public ,1,4,,offense,motor vehicle theft,3,0,0,0,3
+York College,Queens,4,Public ,1,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+York College,Queens,4,Public ,1,4,,offense,manslaughter by negligence,5,0,0,0,0
+York College,Queens,4,Public ,1,4,,offense,robbery,6,1,0,0,11
+York College,Queens,4,Public ,1,4,,offense,rape,7,0,0,0,0
+York College,Queens,4,Public ,1,4,,offense,fondling,8,4,0,0,0
+York College,Queens,4,Public ,1,4,,offense,incest,9,0,0,0,0
+York College,Queens,4,Public ,1,4,,offense,statutory rape,10,0,0,0,0
+York College,Queens,4,Public ,1,4,,offense,domestic violence,11,0,0,0,0
+York College,Queens,4,Public ,1,4,,offense,dating violence,12,2,0,0,0
+York College,Queens,4,Public ,1,4,,offense,stalking,13,1,0,0,0
+York College,Queens,4,Public ,1,4,,arrests,drug abuse violations arrest,14,1,0,0,0
+York College,Queens,4,Public ,1,4,,arrests,liquor law violations arrest,15,0,0,0,0
+York College,Queens,4,Public ,1,4,,arrests,weapons possession arrest,16,0,0,0,0
+York College,Queens,4,Public ,1,4,,unfounded crime,unfounded crime,17,0,0,0,0
+York College,Queens,4,Public ,1,4,,disciplinary actions/judicial referrals,drug abuse violations,18,9,0,0,0
+York College,Queens,4,Public ,1,4,,disciplinary actions/judicial referrals,liquor law violations,19,1,0,0,0
+York College,Queens,4,Public ,1,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,aggravated assault,0,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,arson,1,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,burglary,2,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,motor vehicle theft,3,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,manslaughter by negligence,5,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,robbery,6,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,rape,7,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,fondling,8,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,incest,9,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,statutory rape,10,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,domestic violence,11,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,dating violence,12,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,offense,stalking,13,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,arrests,drug abuse violations arrest,14,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,arrests,liquor law violations arrest,15,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,arrests,weapons possession arrest,16,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,unfounded crime,unfounded crime,17,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,disciplinary actions/judicial referrals,drug abuse violations,18,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,disciplinary actions/judicial referrals,liquor law violations,19,0,0,0,0
+Plaza College,Queens,4,Private,0,4,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,aggravated assault,0,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,arson,1,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,burglary,2,1,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,motor vehicle theft,3,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,murder/non-negligent manslaughter,4,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,manslaughter by negligence,5,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,robbery,6,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,rape,7,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,fondling,8,1,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,incest,9,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,statutory rape,10,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,domestic violence,11,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,dating violence,12,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,offense,stalking,13,3,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,arrests,drug abuse violations arrest,14,3,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,arrests,liquor law violations arrest,15,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,arrests,weapons possession arrest,16,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,unfounded crime,unfounded crime,17,0,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,disciplinary actions/judicial referrals,drug abuse violations,18,7,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,disciplinary actions/judicial referrals,liquor law violations,19,5,0,0,0
+Queensborough Community College,Queens,4,Public,1,2,,disciplinary actions/judicial referrals,weapons possession,20,0,0,0,0
